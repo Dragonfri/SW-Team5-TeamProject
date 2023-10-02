@@ -1,0 +1,21 @@
+#findIdSubmit {
+    width: 25vw;
+    height: auto;
+    margin: 0 auto; /* 가로 중앙 정렬을 위한 추가 */
+    display: block; /* 블록 요소로 변경하여 가로 중앙 정렬을 적용 */
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 1vh 2vw 1vh 2vw;
+    font-size: 2vh;
+    background-color: black;
+    color: white;
+}
+
+#findIdEmailText {
+    text-align: center;
+    margin-bottom: 1vh;
+}
+
+#findIdLoginText {
+    margin-right: 2vw;
+}

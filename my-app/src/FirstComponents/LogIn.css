@@ -1,0 +1,39 @@
+#loginSubmit {
+    width: 25vw;
+    height: auto;
+    margin: 0 auto; /* 가로 중앙 정렬을 위한 추가 */
+    display: block; /* 블록 요소로 변경하여 가로 중앙 정렬을 적용 */
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 1vh 2vw 1vh 2vw;
+    font-size: 2vh;
+    background-color: black;
+    color: white;
+}
+
+#line1 {
+    width: 33vw;
+    height: 1px;
+    background-color: rgb(128, 128, 128, 0.5); /* 원하는 색상으로 변경 */
+}
+
+#or {
+    font-size: 2vh; /* "or" 텍스트 크기 조절 */
+    margin: 0 7vw;
+}
+
+#line2 {
+    width: 33vw;
+    height: 1px;
+    background-color: rgb(128, 128, 128, 0.5); /* 원하는 색상으로 변경 */
+}
+
+#google {
+    width: 6vh;
+    height: 6vh;
+}
+
+#naver {
+    width: 6vh;
+    height: 6vh;
+}
